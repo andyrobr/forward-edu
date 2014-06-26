@@ -31,7 +31,7 @@ headers2 = [
 offset = {}
 school_info = {}
 
-
+#opens the first file
 with open(sys.argv[1]) as f:
 
 
@@ -43,7 +43,8 @@ with open(sys.argv[1]) as f:
 
             for field in headers:
                offset[field] = fields.index(field)
-
+        
+        #store all the school names into a school_info dictionary
         else:
             count +=1
             school_name = fields[offset['SCHOOL NAME']]
@@ -52,6 +53,7 @@ with open(sys.argv[1]) as f:
 
 offset = {}
 
+#opens the second file
 with open(sys.argv[2]) as e:
     count = 0
     for index, line in enumerate(e):
@@ -62,7 +64,9 @@ with open(sys.argv[2]) as e:
 
             for field in headers2:
                 offset[field] = fields.index(field)
-
+    
+        #check if the school name is in the school_info dictionary
+        #if it is in the dictionary, store it into MongoDB
         else:
             school_name = fields[offset['Location Name']]
             school_name = school_name.lower()
