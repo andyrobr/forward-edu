@@ -1,0 +1,447 @@
+2011-12 Progress Report Results for High Schools																				
+DBN	School Name	School Type	Overall Score	Overall Grade	Percentile Rank	Progress Grade	Performance Grade	Environment Grade	College and Career Readiness Grade	Closing the Achievement Gap Points	Principal	Enrollment	% Students with Disabilites	% Students in Self-contained Settings	% Overage	% Free Lunch	% Black or Hispanic	% ELL	8th Gr Math/ELA	Peer Index
+01M292	Henry Street School for International Studies	High School	50.6	C	15	C	F	C	D	4.3	Erin Mcmahon	307	25.4%	10.1%	12.1%	76.3%	84.4%	22.8%	2.55	1.72
+01M448	University Neighborhood High School	High School	67.7	B	59	B	B	B	A	4.3	Elizabeth Collins	394	23.9%	7.1%	15.5%	81.0%	68.5%	21.1%	2.64	1.86
+01M450	East Side Community School	High School	73.6	A	75	B	A	A	A	8.0	Mark Federman	357	24.4%	0.8%	5.9%	69.6%	77.9%	5.6%	2.94	2.38
+01M509	Marta Valle High School	High School	50.5	C	15	F	B	F	A	5.4	Mimi Fortunato	367	27.5%	13.1%	10.9%	79.3%	88.6%	11.4%	2.56	1.64
+01M539	"New Explorations into Science, Technology and Math High School"	High School	82.0	A	93	A	A	C	A	0.1	Dr. Olga Livanis	544	3.3%	0.4%	0.2%	21.9%	41.7%	0.4%	3.60	3.52
+01M696	Bard High School Early College	High School	67.4	B	58	C	A	A	A	2.0	Michael Lerner	617	1.9%	0.0%	1.1%	18.2%	33.9%	0.2%	3.81	3.76
+02M047	47 The American Sign Language and English Secondary School	High School	58.8	B	32	C	F	A	C	3.5	Watfa A. Shama	174	39.1%	9.8%	9.8%	74.7%	91.4%	8.0%	2.52	1.42
+02M288	Food and Finance High School	High School	71.2	A	70	B	A	B	B	4.7	Roger Turgeon	433	21.2%	3.9%	3.9%	68.1%	91.7%	2.1%	2.73	2.19
+02M294	Essex Street Academy	High School	69.1	B	64	B	A	A	D	4.8	Erin Carstensen	343	22.4%	3.5%	8.2%	63.3%	88.3%	3.8%	2.74	2.14
+02M296	High School of Hospitality Management	High School	75.4	A	80	B	A	B	B	7.7	Matthew Corallo	419	20.0%	9.8%	9.3%	80.4%	92.6%	10.7%	2.66	1.97
+02M298	Pace High School	High School	70.6	A	68	B	A	B	B	3.0	Yvette Sy	414	15.0%	1.0%	2.7%	61.4%	74.4%	2.2%	2.98	2.64
+02M300	"Urban Assembly School of Design and Construction, The"	High School	56.2	C	25	D	B	C	C	4.6	Matthew Willoughby	431	22.0%	7.4%	10.2%	71.9%	88.9%	11.6%	2.74	2.04
+02M303	"Facing History School, The"	High School	75.3	A	80	B	A	B	B	9.2	Dana Panagot	451	23.3%	6.4%	14.6%	56.3%	96.7%	21.5%	2.54	1.80
+02M305	"Urban Assembly Academy of Government and Law, The"	High School	70.4	A	67	B	B	C	B	5.0	David Glasner	312	21.2%	5.8%	6.4%	74.0%	92.3%	6.1%	2.68	2.08
+02M308	Lower Manhattan Arts Academy	High School	72.6	A	74	B	B	A	C	5.5	John Wenk	336	29.8%	4.5%	6.5%	47.6%	86.6%	4.8%	2.71	1.96
+02M316	"Urban Assembly School of Business for Young Women, the"	High School	62.1	B	41	B	C	C	B	3.7	Patricia Minaya	378	19.8%	3.7%	4.2%	74.9%	95.2%	2.6%	2.68	2.17
+02M374	Gramercy Arts High School	High School	53.7	C	20	C	B	D	D	2.4	Denise Dicarlo	495	14.9%	3.4%	5.7%	62.2%	90.3%	3.0%	2.83	2.41
+02M376	NYC iSchool	High School	66.0	B	53	B	A	B	D	1.0	Alisa Berger	433	13.9%	1.2%	1.4%	34.4%	64.0%	0.5%	3.27	2.96
+02M392	MANHATTAN BUSINESS ACADEMY	High School	.	.	.	.	.	.	.	.	Karen Polsonetti	332	17.8%	4.8%	7.8%	70.8%	88.3%	10.2%	2.76	2.23
+02M393	BUSINESS OF SPORTS SCHOOL	High School	.	.	.	.	.	.	.	.	Joshua Solomon	304	24.3%	4.9%	9.2%	68.4%	94.1%	7.6%	2.67	2.00
+02M399	THE HIGH SCHOOL FOR LANGUAGE AND DIPLOMACY	High School	.	.	.	.	.	.	.	.	Santiago Mayol	244	20.1%	11.1%	10.2%	79.9%	50.0%	29.1%	2.84	2.11
+02M400	High School for Environmental Studies	High School	66.5	B	56	C	A	B	A	3.0	Shirley H. Matthews	1394	16.1%	5.5%	4.0%	61.7%	72.0%	7.7%	3.02	2.55
+02M407	Institute for Collaborative Education	High School	73.5	A	75	A	C	A	D	2.9	John Pettinato	271	14.8%	0.4%	6.3%	12.1%	39.9%	0.4%	2.94	2.58
+02M408	Professional Performing Arts High School	High School	65.6	B	51	B	A	C	B	1.1	Keith Ryan	415	7.0%	0.2%	1.0%	23.5%	52.8%	2.4%	3.31	3.16
+02M411	Baruch College Campus High School	High School	80.8	A	91	A	A	A	A	0.0	Alicia Perez-Katz	432	3.9%	0.0%	0.7%	56.7%	20.4%	1.6%	3.44	3.36
+02M412	N.Y.C. Lab School for Collaborative Studies	High School	74.1	A	76	B	A	A	A	2.0	Brooke Jackson	579	18.3%	4.5%	0.5%	29.0%	23.5%	1.6%	3.45	2.99
+02M413	School of the Future High School	High School	71.0	A	69	A	B	B	B	2.4	Stacy Paige Goldstein	380	18.4%	0.0%	1.3%	25.6%	43.4%	1.6%	3.18	2.80
+02M414	N.Y.C. Museum School	High School	76.3	A	82	A	A	F	B	1.5	Darlene Miller	436	12.2%	0.0%	0.7%	56.9%	51.6%	0.5%	3.30	3.05
+02M416	Eleanor Roosevelt High School	High School	85.4	A	95	A	A	A	A	0.2	Dimitri Saliani	507	3.0%	0.2%	0.4%	20.3%	18.5%	0.2%	3.67	3.60
+02M418	Millennium High School	High School	80.8	A	91	A	A	A	A	0.8	Robert Rhodes	626	11.0%	0.3%	0.3%	31.9%	31.0%	0.2%	3.50	3.27
+02M419	Landmark High School	High School	47.1	C	9	F	C	F	B	5.8	Trevor Naidoo	421	20.2%	5.7%	9.0%	78.9%	92.9%	17.6%	2.54	1.93
+02M420	High School for Health Professions and Human Services	High School	67.5	B	59	B	B	B	A	2.0	Robert Gentile	1767	11.7%	3.2%	4.5%	41.7%	74.0%	4.3%	3.02	2.68
+02M425	Leadership and Public Service High School	High School	55.6	C	24	C	C	C	B	4.2	Philip Santos	606	20.5%	9.4%	9.4%	78.7%	84.7%	5.6%	2.68	1.99
+02M427	MANHATTAN ACADEMY FOR ARTS & LANGUAGE	High School	.	.	.	.	.	.	.	.	Siv Boletsis	175	7.4%	3.4%	27.4%	85.7%	92.6%	88.0%	2.42	1.93
+02M429	Legacy School for Integrated Studies	High School	.	.	.	.	.	.	.	.	Joan Mosely	294	28.2%	15.6%	17.7%	84.4%	96.6%	8.5%	2.41	1.36
+02M437	HUDSON HIGH SCHOOL OF LEARNING TECHNOLOGIES	High School	.	.	.	.	.	.	.	.	Nancy Amling	226	20.4%	6.6%	3.5%	66.8%	85.8%	8.8%	2.80	2.22
+02M438	INTERNATIONAL HIGH SCHOOL AT UNION SQUARE	High School	.	.	.	.	.	.	.	.	Gaylea Prichard-Silvers	176	0.6%	0.0%	28.4%	82.4%	55.7%	96.6%	2.48	2.18
+02M439	Manhattan Village Academy	High School	96.6	A	100	A	A	A	A	5.0	Hector Geager	429	10.3%	1.2%	1.4%	60.1%	88.8%	3.7%	3.11	2.87
+02M440	Bayard Rustin Educational Complex	High School	.	.	.	.	.	.	.	.	Lisa Ostrom	208	14.4%	6.7%	11.5%	71.2%	90.4%	26.4%	2.37	1.83
+02M449	Vanguard High School	High School	79.5	A	88	A	A	A	A	7.3	William Klann	444	23.4%	3.8%	6.3%	70.5%	84.9%	6.1%	2.70	2.09
+02M459	Manhattan International High School	High School	71.2	A	70	B	C	A	C	6.9	Alan Krull	325	1.2%	0.9%	14.8%	31.1%	52.0%	79.1%	2.63	2.44
+02M460	Washington Irving High School	High School	.	.	.	.	.	.	.	.	Bernardo Ascona	1032	19.8%	11.4%	17.2%	71.3%	92.5%	20.2%	2.54	1.75
+02M475	Stuyvesant High School	High School	76.8	A	84	A	A	B	A	0.0	Stanley Teitel	3297	1.5%	0.0%	0.3%	32.3%	3.7%	0.0%	4.04	4.01
+02M489	High School of Economics and Finance	High School	66.4	B	55	B	B	B	A	3.0	Michael Stanzione	809	14.1%	3.3%	5.3%	66.7%	65.9%	6.3%	3.00	2.59
+02M500	Unity Center for Urban Technologies	High School	75.9	A	81	B	A	B	F	8.7	Fausto De La Rosa	237	38.8%	18.1%	22.4%	80.6%	91.1%	16.0%	2.42	1.06
+02M507	Urban Assembly Gateway School for Technology	High School	.	.	.	.	.	.	.	.	April Mckoy	126	23.8%	11.1%	3.2%	59.5%	87.3%	8.7%	2.91	2.18
+02M519	Talent Unlimited High School	High School	72.3	A	73	A	A	D	A	1.1	Linda Hamil	491	4.9%	0.2%	1.0%	48.7%	75.6%	0.2%	3.21	3.10
+02M520	Murry Bergtraum High School for Business Careers	High School	41.0	D	4	F	D	F	C	3.1	Andrea Lewis	2072	16.7%	7.8%	8.7%	69.4%	86.9%	10.3%	2.74	2.16
+02M529	Jacqueline Kennedy Onassis High School	High School	60.1	B	38	C	B	B	B	2.9	Edward Demeo	724	17.5%	5.5%	6.8%	76.0%	92.5%	9.9%	2.70	2.17
+02M531	Repertory Company High School for Theatre Arts	High School	80.3	A	90	A	A	B	B	4.4	Michael Mehmet Jr.	217	8.8%	0.9%	3.2%	65.4%	90.3%	0.5%	3.01	2.79
+02M542	Manhattan Bridges High School	High School	89.7	A	97	A	A	A	A	11.1	Mirza Sanchez Medina	541	2.4%	1.1%	7.9%	56.4%	99.8%	73.0%	2.48	2.33
+02M543	New Design High School	High School	74.9	A	79	A	B	B	C	4.1	Scott Conti	423	21.5%	4.7%	6.9%	52.5%	92.4%	5.7%	2.66	2.07
+02M545	High School for Dual Language and Asian Studies	High School	90.2	A	97	A	A	B	A	8.9	Li Yan	353	4.2%	0.0%	7.1%	76.8%	7.6%	38.2%	3.29	3.13
+02M551	The Urban Assembly New York Harbor School	High School	70.7	A	68	B	A	B	A	5.4	Nathan Dudley	430	20.9%	7.9%	5.8%	64.4%	87.0%	4.2%	2.78	2.15
+02M580	Richard R. Green High School of Teaching	High School	62.2	B	42	C	B	B	B	3.5	David Raubvogel	610	23.9%	7.7%	10.3%	77.2%	94.4%	6.7%	2.69	1.96
+02M600	The High School of Fashion Industries	High School	82.6	A	93	A	A	A	A	4.0	Daryl Blank	1599	13.1%	4.5%	2.9%	68.3%	91.7%	2.8%	2.95	2.57
+02M615	Chelsea Career and Technical Education High School	High School	63.1	B	44	B	D	B	C	5.4	Brian Rosenbloom	466	20.0%	5.6%	6.9%	69.1%	90.6%	6.2%	2.74	2.17
+02M620	Norman Thomas High School	High School	.	.	.	.	.	.	.	.	Philip Martin Jr	1127	18.5%	9.9%	13.9%	78.5%	96.3%	21.5%	2.44	1.73
+02M625	High School of Graphic Communication Arts	High School	34.8	F	1	F	F	F	F	3.1	Brendan Lyons	1433	19.4%	8.1%	12.1%	53.2%	94.0%	9.4%	2.61	1.93
+02M630	Art and Design High School	High School	66.9	B	56	B	A	D	B	3.7	Eric Strauss	1344	13.7%	3.6%	2.3%	53.7%	77.7%	1.7%	3.03	2.66
+02M655	Life Sciences Secondary School	High School	60.1	B	38	C	B	C	C	3.8	Genevieve Stanislaus	592	20.6%	6.6%	5.9%	71.0%	92.2%	8.1%	2.72	2.11
+03M283	Manhattan Theatre Lab High School	High School	.	.	.	.	.	.	.	.	Evelyn Collins	409	17.8%	8.1%	7.6%	61.4%	95.6%	9.0%	2.63	2.03
+03M299	"High School for Arts, Imagination and Inquiry"	High School	65.3	B	50	B	A	D	C	6.6	Stephen Noonan	417	22.8%	7.2%	12.2%	73.6%	96.9%	15.1%	2.56	1.84
+03M307	"Urban Assembly School for Media Studies, The"	High School	63.9	B	46	C	B	B	C	6.9	Cordelia Veve	366	24.0%	7.7%	12.6%	70.2%	93.4%	12.8%	2.57	1.81
+03M402	THE URBAN ASSEMBLY SCHOOL FOR GREEN CAREERS	High School	.	.	.	.	.	.	.	.	Alexandra Rathmann-Noonan	283	23.3%	12.0%	17.7%	85.2%	95.8%	25.1%	2.54	1.66
+03M403	THE GLOBAL LEARNING COLLABORATIVE	High School	.	.	.	.	.	.	.	.	Jennifer Zinn	358	22.6%	7.8%	11.2%	76.5%	90.2%	20.4%	2.64	1.92
+03M415	Wadleigh Secondary School for the Performing & Visual Arts	High School	48.6	C	12	D	C	D	D	4.4	Herma Hall	426	23.0%	13.6%	12.9%	54.5%	98.6%	7.3%	2.59	1.73
+03M417	FRANK McCOURT HIGH SCHOOL	High School	.	.	.	.	.	.	.	.	Danielle Salzberg	219	20.5%	1.4%	0.9%	29.7%	55.3%	0.9%	3.10	2.65
+03M470	Louis D. Brandeis High School	High School	.	.	.	.	.	.	.	.	Arleen Liquori	291	13.4%	3.8%	9.6%	62.2%	96.6%	28.5%	2.38	1.94
+03M479	Beacon High School	High School	73.5	A	75	A	B	A	B	0.5	Ruth Lacey	1162	5.9%	0.1%	0.5%	18.7%	38.8%	0.2%	3.62	3.49
+03M485	Fiorello H. LaGuardia High School of Music & Art and Performing Arts	High School	77.2	A	84	A	A	C	A	0.2	Kim Bruno	2605	2.3%	0.0%	0.2%	21.5%	30.2%	0.2%	3.67	3.62
+03M492	"High School for Law, Advocacy and Community Justice"	High School	72.8	A	74	B	A	B	A	6.7	Doreen Conwell	541	17.7%	9.1%	8.9%	78.2%	94.3%	10.5%	2.71	2.08
+03M494	High School of Arts and Technology	High School	54.9	C	23	C	C	F	C	3.3	Anne Geiger	603	20.1%	7.1%	10.4%	81.9%	92.0%	10.9%	2.75	2.10
+03M541	Manhattan / Hunter Science High School	High School	80.1	A	89	A	B	A	A	2.0	Susan Kreisman	453	5.1%	0.2%	1.5%	51.0%	63.1%	1.3%	3.39	3.27
+03M860	Frederick Douglass Academy II Secondary School	High School	75.1	A	80	A	B	B	A	6.1	Osei Owusu-Afriyie	300	24.3%	10.3%	8.3%	71.2%	96.3%	6.3%	2.49	1.71
+04M409	Coalition School for Social Change	High School	43.4	D	5	F	C	C	D	3.6	"Sullivan, John"	349	26.9%	12.6%	12.9%	63.0%	98.0%	10.0%	2.48	1.56
+04M435	Manhattan Center for Science and Mathematics	High School	60.5	B	39	B	B	F	A	1.5	Jose David Jimenez	1650	6.9%	3.2%	1.5%	71.2%	77.1%	2.9%	3.36	3.15
+04M495	Park East High School	High School	67.5	B	59	B	A	B	F	4.6	Kevin Mccarthy	349	14.3%	3.7%	1.4%	75.9%	94.6%	4.3%	2.77	2.39
+04M555	Central Park East High School	High School	76.2	A	82	A	C	A	C	7.1	Bennett Lieberman	445	16.6%	3.6%	3.1%	75.5%	91.5%	4.3%	2.99	2.55
+04M610	Young Women's Leadership School	High School	80.1	A	89	A	A	A	A	0.9	Althea Bradshaw-Tyson	288	11.5%	0.0%	0.3%	70.4%	93.4%	2.4%	3.11	2.88
+04M635	Academy of Environmental Science Secondary High School	High School	.	.	.	.	.	.	.	.	Irma Garceau	192	22.4%	13.0%	10.9%	68.8%	93.2%	13.5%	2.37	1.56
+04M680	"Heritage School, The"	High School	57.2	C	28	C	B	C	F	5.3	Dyanand Sugrim	294	27.9%	8.8%	7.5%	70.1%	98.3%	6.8%	2.58	1.77
+05M304	Mott Hall High School	High School	52.2	C	17	D	C	B	C	2.9	Altagracia Villalona	426	17.6%	6.1%	6.1%	81.5%	98.8%	8.7%	2.72	2.19
+05M362	Columbia Secondary School	High School	.	.	.	.	.	.	.	.	Miriam Nightengale	186	4.8%	0.5%	1.1%	52.1%	74.2%	0.5%	3.50	3.39
+05M367	Academy for Social Action: A College Board School	High School	19.6	F	0	F	F	F	F	2.9	Rhokeisha Ford	288	22.2%	5.6%	14.6%	73.4%	100.0%	12.5%	2.58	1.88
+05M369	Urban Assembly School for the Performing Arts	High School	49.2	C	14	F	B	F	B	4.8	Fia Davis	374	17.9%	6.4%	11.5%	77.0%	98.4%	6.1%	2.61	2.01
+05M469	Choir Academy of Harlem	High School	28.7	F	1	F	F	F	F	2.0	Dr. Melissa Vaughan	155	9.7%	4.5%	9.7%	84.1%	98.7%	1.9%	2.56	2.18
+05M499	Frederick Douglass Academy	High School	46.7	C	9	F	B	D	A	1.8	Joseph Gates	1199	9.3%	4.8%	5.0%	68.1%	97.0%	2.8%	3.01	2.67
+05M670	Thurgood Marshall Academy for Learning and Social Change	High School	59.8	B	36	C	B	B	C	3.4	Sean Davenport	395	13.7%	0.3%	2.8%	74.0%	99.0%	1.0%	2.81	2.51
+05M685	Bread & Roses Integrated Arts High School	High School	30.7	F	1	F	F	F	F	2.5	Rodney Lofton	524	26.1%	14.3%	14.3%	74.0%	98.5%	18.3%	2.41	1.46
+05M692	"High School for Mathematics, Science and Engineering at City College"	High School	79.6	A	88	A	A	B	A	0.0	Crystal Bonds	406	3.4%	0.0%	0.5%	38.7%	36.5%	0.0%	3.80	3.73
+06M293	City College Academy of the Arts	High School	76.0	A	81	B	A	A	A	4.3	Bernadette Drysdale	315	13.0%	0.3%	2.9%	77.3%	98.1%	3.5%	3.12	2.82
+06M346	Community Health Academy of the Heights	High School	62.8	B	44	D	B	A	A	8.8	Mark House	316	22.2%	8.5%	11.4%	87.1%	99.1%	26.6%	2.43	1.71
+06M348	Washington Heights Expeditionary Learning School	High School	73.7	A	76	A	B	A	C	5.8	Brett Kimmel	357	19.3%	2.8%	6.4%	89.5%	100.0%	14.3%	2.78	2.27
+06M462	The College Academy	High School	63.9	B	46	B	C	B	C	5.5	Peter Sloman	630	16.7%	8.4%	10.3%	91.1%	97.6%	43.5%	2.48	1.88
+06M463	High School for Media and Communications	High School	58.2	B	30	C	B	D	C	5.7	Ronni Michelen	572	19.8%	5.8%	11.4%	86.7%	98.3%	28.3%	2.49	1.86
+06M467	High School for Law and Public Service	High School	64.3	B	47	C	A	B	B	7.4	Nicholas Politis	694	20.3%	9.4%	12.2%	71.3%	97.4%	32.1%	2.56	1.84
+06M468	High School for Health Careers and Sciences	High School	54.2	C	22	C	D	B	D	5.2	Harris Marmor	679	15.6%	4.9%	11.0%	93.2%	97.8%	31.4%	2.49	1.97
+06M540	A. Philip Randolph Campus High School	High School	44.9	D	6	D	F	F	C	1.7	David Fanning	1285	6.5%	3.5%	3.3%	74.8%	95.1%	2.5%	3.03	2.80
+06M552	Gregorio Luperon High School for Science and Mathematics	High School	78.0	A	85	B	A	A	B	7.8	Juan Villar	472	0.6%	0.0%	24.2%	91.7%	100.0%	91.7%	2.32	2.06
+07X221	South Bronx Preparatory: A College Board School	High School	84.3	A	94	A	A	B	B	7.0	Ellen Reddon Flanagan	339	21.2%	6.5%	8.0%	83.0%	98.2%	5.6%	2.67	2.04
+07X334	International Community High School	High School	64.3	B	48	B	F	A	C	6.9	Berena Cabarcas	393	3.1%	0.5%	41.7%	93.6%	91.9%	94.1%	2.10	1.61
+07X427	Community School for Social Justice	High School	62.8	B	44	C	C	A	D	5.7	Sue-Ann Rosch	319	23.2%	10.3%	9.1%	80.3%	98.4%	13.2%	2.50	1.74
+07X473	Mott Haven Village Preparatory High School	High School	59.7	B	35	C	C	A	D	4.6	Flavia Puello Perdomo	363	21.2%	6.3%	8.8%	84.0%	98.6%	9.9%	2.58	1.94
+07X495	University Heights Secondary School	High School	70.2	A	66	A	B	C	B	3.6	Hazel Joseph Roseboro	465	7.1%	0.9%	4.1%	85.8%	96.1%	3.9%	2.99	2.79
+07X500	Hostos-Lincoln Academy of Science	High School	66.2	B	53	C	A	C	A	6.0	Nicholas Paarlberg	317	12.9%	2.5%	3.5%	68.2%	95.6%	4.1%	2.92	2.58
+07X520	Foreign Language Academy of Global Studies	High School	57.0	C	27	D	C	B	A	4.9	Leba Collins Augone	311	25.7%	19.6%	11.6%	88.4%	94.9%	21.9%	2.52	1.50
+07X522	Bronx Design and Construction Academy	High School	.	.	.	.	.	.	.	.	Matthew Williams	138	29.7%	11.6%	19.6%	91.3%	97.1%	20.3%	2.59	1.56
+07X527	Bronx Leadership Academy II High School	High School	57.2	C	28	C	C	C	C	5.7	Katherine Callaghan	502	22.9%	11.6%	11.6%	81.9%	97.2%	14.3%	2.52	1.71
+07X547	New Explorers High School	High School	58.6	B	31	C	C	B	F	4.4	Jacob Hobson	383	26.9%	12.3%	16.2%	86.9%	98.4%	16.2%	2.48	1.54
+07X548	Urban Assembly School for Careers in Sports	High School	59.6	B	36	C	A	C	D	3.6	Johanny Garcia	477	22.0%	7.5%	5.2%	76.1%	97.7%	5.5%	2.74	2.10
+07X551	The Urban Assembly Bronx Academy of Letters	High School	66.5	B	55	C	A	B	A	4.5	Anna Hall	317	20.2%	14.2%	5.0%	85.0%	98.1%	9.5%	2.61	1.87
+07X600	Alfred E. Smith Career and Technical Education High School	High School	61.6	B	41	B	C	F	C	6.3	Rene Cassanova	738	26.2%	15.3%	7.6%	75.6%	97.6%	10.3%	2.42	1.51
+07X655	Samuel Gompers Career and Technical Education High School	High School	.	.	.	.	.	.	.	.	Joyce Mills Kittrell	663	32.0%	23.1%	15.2%	62.7%	97.3%	17.0%	2.39	1.14
+07X670	Health Opportunities High School	High School	53.9	C	21	F	B	C	B	4.5	Julie Mchedlishvili	587	22.0%	10.9%	9.2%	86.5%	96.1%	10.6%	2.59	1.84
+08X269	Bronx Studio School for Writers and Artists	High School	.	.	.	.	.	.	.	.	David Vazquez	236	18.2%	6.8%	11.4%	68.8%	96.2%	7.2%	2.72	2.11
+08X282	Women's Academy of Excellence	High School	54.6	C	22	D	A	F	A	4.8	Arnette Crocker	379	18.2%	7.7%	9.5%	76.5%	93.7%	3.7%	2.65	2.04
+08X293	Renaissance High School for Musical Theater & Technology	High School	67.1	B	57	B	B	B	C	3.7	Maria N Herrera	469	22.8%	7.2%	5.8%	52.9%	89.3%	4.5%	2.61	1.95
+08X295	Gateway School for Environmental Research and Technology	High School	.	.	.	.	.	.	.	.	Clifford Siegel	478	25.5%	14.6%	17.2%	54.8%	92.5%	13.0%	2.39	1.41
+08X305	Pablo Neruda Academy for Architecture and World Studies	High School	67.8	B	60	B	C	B	D	8.5	Sabrina Cook	359	30.1%	15.6%	17.5%	53.5%	96.1%	17.5%	2.41	1.32
+08X312	Millennium Art Academy	High School	66.1	B	53	B	C	B	C	4.9	Maxine Nodel	496	24.0%	11.3%	9.5%	56.0%	97.0%	5.4%	2.59	1.79
+08X332	Holcombe L. Rucker School of Community Research	High School	45.9	D	8	F	C	D	C	4.2	Sharif Rucker	333	21.3%	10.2%	17.7%	81.4%	96.1%	12.6%	2.46	1.66
+08X367	"Archimedes Academy for Math, Science and Technology Applications"	High School	.	.	.	.	.	.	.	.	Miriam Lazar	209	21.1%	9.1%	10.5%	76.8%	93.8%	3.8%	2.62	1.92
+08X376	"Antonia Pantoja Preparatory Academy, A College Board School"	High School	.	.	.	.	.	.	.	.	Nancy Jacqueline Diaz	146	28.1%	14.4%	9.6%	51.2%	95.9%	8.9%	2.76	1.82
+08X405	Herbert H. Lehman High School	High School	40.5	D	4	F	F	F	B	3.0	R Lobianco	3593	23.8%	12.5%	8.1%	62.2%	83.5%	9.8%	2.64	1.83
+08X432	BRONX BRIDGES HIGH SCHOOL	High School	.	.	.	.	.	.	.	.	Pablo Villavicencio	155	9.7%	4.5%	17.4%	87.1%	91.6%	81.9%	2.36	1.90
+08X452	Bronx Guild	High School	71.9	A	72	B	B	B	B	8.7	Sam Decker	305	26.9%	10.2%	14.1%	57.7%	95.1%	7.5%	2.48	1.60
+08X519	"Felisa Rincon de Gautier Institute for Law and Public Policy, The"	High School	51.8	C	16	D	C	C	F	4.8	Ms. Grismaldy Laboy-Wilson	363	22.3%	12.4%	10.5%	73.0%	98.1%	14.0%	2.48	1.68
+08X530	Banana Kelly High School	High School	49.3	C	14	C	D	F	C	4.2	Antonio Arocho	451	27.7%	12.2%	16.2%	73.4%	98.0%	14.4%	2.41	1.45
+08X540	School for Community Research and Learning	High School	.	.	.	.	.	.	.	.	Jacqueline Boswell	190	31.1%	17.9%	15.8%	56.0%	93.7%	10.5%	2.32	1.18
+08X650	Jane Addams High School for Academic Careers	High School	.	.	.	.	.	.	.	.	"Dibartolomeo, Joel"	717	24.5%	12.8%	11.6%	87.6%	97.6%	11.9%	2.49	1.63
+09X227	Bronx Collegiate Academy	High School	73.1	A	74	A	B	A	D	5.6	D White	355	22.8%	14.1%	16.6%	62.0%	98.0%	29.9%	2.39	1.49
+09X231	Eagle Academy for Young Men	High School	65.4	B	51	C	A	A	A	6.3	Jonathan Foy	457	28.4%	9.8%	9.0%	60.7%	98.2%	4.4%	2.60	1.74
+09X239	"Urban Assembly Academy for History and Citizenship for Young Men, The"	High School	.	.	.	.	.	.	.	.	Avis Terrell	141	33.3%	18.4%	20.6%	51.8%	97.2%	20.6%	2.30	1.06
+09X241	"Urban Assembly School for Applied Math and Science, The"	High School	74.9	A	79	B	A	B	A	2.6	Kenneth Baum	348	20.1%	6.6%	2.9%	56.9%	93.7%	8.0%	2.85	2.28
+09X250	Eximius College Preparatory Academy: A College Board School	High School	69.9	B	66	C	A	B	B	6.8	Jonathan Daly	356	20.8%	9.0%	7.6%	63.8%	98.9%	8.1%	2.65	1.98
+09X252	Mott Hall Bronx High School	High School	67.0	B	58	C	A	B	C	4.0	Kathryn Malloy	354	16.9%	10.7%	5.9%	72.9%	98.0%	8.8%	2.74	2.12
+09X260	Bronx Center for Science and Mathematics	High School	80.9	A	91	A	A	A	A	4.3	Edward Tom	444	18.0%	5.4%	3.4%	47.7%	93.0%	1.6%	3.15	2.64
+09X263	Validus Preparatory Academy: An Expeditionary Learning School	High School	58.0	B	30	C	B	B	D	4.6	Javier Fortiche Ocampo	365	18.4%	8.2%	7.1%	78.9%	98.4%	12.1%	2.60	1.99
+09X276	Leadership Institute	High School	46.0	D	8	D	C	D	C	2.8	Marta Colon	230	20.4%	14.8%	17.0%	82.6%	96.5%	17.8%	2.37	1.50
+09X297	Morris Academy for Collaborative Studies	High School	69.4	B	64	B	A	C	D	6.9	Charles Osewalt	450	24.9%	10.9%	14.2%	64.9%	99.3%	20.7%	2.44	1.58
+09X324	Bronx Early College Academy for Teaching & Learning	High School	.	.	.	.	.	.	.	.	Yvette Rivera	233	15.5%	0.0%	6.0%	80.1%	95.7%	9.0%	2.88	2.51
+09X329	DreamYard Preparatory School	High School	58.4	B	31	C	C	B	C	4.2	Alicia Wargo	349	23.5%	13.5%	18.3%	60.5%	96.8%	24.9%	2.52	1.60
+09X365	Academy for Language and Technology	High School	77.8	A	85	A	B	B	F	3.6	Arisleyda Urena	336	0.9%	0.3%	6.8%	89.6%	100.0%	87.8%	2.41	2.31
+09X403	Bronx International High School	High School	74.2	A	77	A	B	B	D	6.6	Joaquin Vega	403	1.5%	0.7%	28.5%	48.4%	95.0%	91.8%	2.16	1.83
+09X404	School for Excellence	High School	71.7	A	71	A	B	C	D	6.4	Carmen Bardeguez Brown	386	28.8%	16.1%	18.9%	64.5%	99.0%	21.2%	2.43	1.34
+09X412	Bronx High School of Business	High School	55.1	C	24	C	F	C	C	3.9	Enrique Lizardi	401	26.4%	17.5%	17.7%	66.3%	98.8%	23.4%	2.43	1.37
+09X413	Bronx High School for Medical Science	High School	60.7	B	40	C	A	B	B	1.6	William Quintana	287	5.2%	2.1%	2.4%	57.4%	93.4%	4.9%	2.91	2.74
+09X414	Jonathan Levin High School for Media and Communications	High School	40.3	D	3	F	F	C	F	1.9	Nasib Hoxha	382	25.4%	15.7%	20.2%	61.0%	97.9%	39.5%	2.37	1.35
+09X505	"Bronx School for Law, Government and Justice"	High School	62.9	B	44	C	B	B	A	3.6	Meisha Ross-Porter	486	19.5%	9.5%	4.5%	55.8%	96.9%	6.6%	2.85	2.23
+09X517	Frederick Douglass Academy III Secondary School	High School	63.5	B	45	C	A	C	C	5.4	Rahesha Amon	387	16.8%	9.0%	12.1%	85.2%	97.7%	6.5%	2.52	1.88
+09X525	Bronx Leadership Academy High School	High School	62.6	B	43	C	B	B	A	4.5	"Kenneth Gaskins,jr."	705	23.7%	13.6%	10.8%	82.7%	98.0%	9.6%	2.59	1.73
+09X543	High School for Violin and Dance	High School	64.4	B	48	D	A	D	A	8.6	Franklin Sim	323	23.8%	10.2%	12.4%	83.3%	99.7%	8.7%	2.53	1.73
+10X141	Riverdale / Kingsbridge Academy (Middle School / High School 141)	High School	69.2	B	65	B	A	D	A	3.8	Lori O'mara	630	18.4%	5.7%	2.7%	42.7%	68.4%	4.0%	2.89	2.38
+10X213	Bronx Engineering and Technology Academy	High School	66.6	B	56	C	A	C	A	8.6	Karalyne Sperling	444	25.5%	9.5%	10.6%	78.8%	93.9%	16.4%	2.54	1.73
+10X225	Theatre Arts Production Company School	High School	63.0	B	44	C	A	D	B	2.9	Lynn Passarella	303	17.2%	1.3%	3.6%	58.4%	97.4%	1.3%	2.79	2.38
+10X237	"The Marie Curie School for Medicine, Nursing, and Health Professions"	High School	55.8	C	24	C	A	D	C	2.7	Rodney Fisher	540	18.0%	7.6%	7.2%	52.0%	93.1%	6.7%	2.75	2.17
+10X243	West Bronx Academy for the Future	High School	56.2	C	25	C	C	D	C	5.7	Wilper Morales	370	20.0%	8.1%	9.5%	85.8%	93.5%	14.3%	2.50	1.85
+10X268	Kingsbridge International High School	High School	60.0	B	37	B	F	A	D	4.6	Ronald Newlon	497	1.4%	0.8%	28.8%	90.3%	90.1%	94.2%	2.17	1.84
+10X284	Bronx School of Law and Finance	High School	59.6	B	35	B	B	C	D	4.0	Evan Schwartz	422	20.1%	9.5%	11.1%	78.9%	96.7%	7.1%	2.67	1.97
+10X342	International School for Liberal Arts	High School	70.3	A	66	B	C	A	C	7.4	Migdalia Carrillo	416	2.6%	1.7%	10.6%	89.3%	99.8%	80.5%	2.36	2.17
+10X368	In-Tech Academy (M.S. / High School 368)	High School	57.9	C	29	C	B	C	C	3.3	Yvette Allen	555	14.6%	3.2%	3.1%	78.5%	93.2%	7.9%	2.86	2.47
+10X374	Knowledge and Power Preparatory Academy International High School (Kappa)	High School	63.2	B	44	B	B	B	B	3.4	Panorea Panagiosoulis	324	13.3%	3.7%	8.3%	84.9%	96.0%	9.6%	2.78	2.36
+10X397	English Language Learners and International Support Preparatory Academy (ELLIS)	High School	49.8	C	14	F	F	B	C	10.1	Norma Vega	316	0.3%	0.3%	94.9%	85.8%	90.2%	88.0%	2.03	1.39
+10X433	High School for Teaching and the Professions	High School	64.8	B	48	B	C	B	C	4.6	Gary Prince	473	22.8%	13.7%	14.0%	84.4%	95.6%	18.0%	2.52	1.65
+10X434	Belmont Preparatory High School	High School	64.0	B	46	B	B	C	B	5.6	Stephen Joseph Gumbs	407	17.7%	11.8%	9.3%	83.3%	94.6%	11.3%	2.56	1.87
+10X437	Fordham High School for the Arts	High School	73.9	A	76	B	A	A	C	6.3	Iris Blige	387	24.8%	14.0%	8.3%	80.6%	97.2%	12.4%	2.59	1.74
+10X438	Fordham Leadership Academy for Business and Technology	High School	39.6	F	3	F	D	F	C	3.7	Mary Ann Tucker	451	22.4%	14.9%	13.5%	82.7%	95.6%	16.6%	2.48	1.60
+10X439	Bronx High School for Law and Community Service	High School	51.5	C	16	D	C	C	C	5.7	Michael Barakat	432	23.6%	13.2%	13.4%	76.6%	95.6%	13.9%	2.52	1.65
+10X440	DeWitt Clinton High School	High School	37.2	F	2	F	F	F	B	2.8	Geraldine Ambrosio	4159	18.5%	11.0%	10.7%	72.2%	90.4%	20.2%	2.63	1.94
+10X442	"Celia Cruz Bronx High School of Music, The"	High School	65.1	B	49	B	B	C	B	4.9	"William Rodriguez, Ed.D."	423	10.6%	1.2%	3.5%	72.3%	96.7%	3.5%	2.93	2.66
+10X445	Bronx High School of Science	High School	81.0	A	92	A	A	B	A	0.0	Valerie Reidy	3013	1.5%	0.0%	0.3%	33.2%	10.7%	0.1%	3.93	3.89
+10X475	John F. Kennedy High School	High School	.	.	.	.	.	.	.	.	Lisa Luft	706	23.8%	13.6%	16.9%	84.3%	97.9%	24.2%	2.40	1.49
+10X477	Marble Hill High School for International Studies	High School	90.9	A	98	A	A	A	A	6.9	Kirsten Larson	456	8.1%	0.9%	10.7%	78.1%	80.9%	32.2%	2.85	2.56
+10X524	Crotona International High School	High School	.	.	.	.	.	.	.	.	Jesseca Long	85	0.0%	1.2%	23.5%	88.2%	92.9%	90.6%	2.21	1.95
+10X546	Bronx Theatre High School	High School	68.6	B	62	B	B	A	D	4.7	Charles Gallo	445	17.5%	7.0%	6.7%	79.1%	97.8%	9.7%	2.60	2.05
+10X549	Discovery High School	High School	76.6	A	83	A	B	A	A	5.2	Rolando Rivera	529	23.1%	12.9%	12.1%	78.4%	96.0%	21.4%	2.51	1.67
+10X660	Grace Dodge Career and Technical Education High School	High School	.	.	.	.	.	.	.	.	John Tornifolio	1162	26.2%	16.5%	14.6%	61.9%	97.2%	19.4%	2.45	1.44
+10X696	High School of American Studies at Lehman College	High School	88.9	A	96	A	A	A	A	0.1	Mr. Alessandro Weiss	377	4.5%	0.3%	0.3%	24.1%	28.9%	0.0%	3.85	3.75
+11X253	Bronx High School for Writing and Communication Arts	High School	52.8	C	18	D	C	C	C	4.0	Terri Lynn Grey	422	22.5%	10.7%	12.8%	51.7%	96.0%	8.8%	2.52	1.73
+11X265	Bronx Lab School	High School	59.3	B	34	B	C	B	D	2.8	Christophe Lagares	482	18.0%	8.1%	7.3%	57.5%	95.2%	4.1%	2.71	2.11
+11X270	Academy for Scholarship and Entrepreneurship: A College Board School	High School	59.9	B	36	B	B	D	C	3.9	Zenobia White	367	22.3%	9.0%	10.4%	67.7%	96.2%	5.2%	2.50	1.77
+11X275	High School of Computers and Technology	High School	90.6	A	98	A	A	A	A	9.2	Bruce Abramowitz	550	22.2%	8.7%	7.6%	51.6%	94.5%	10.5%	2.62	1.92
+11X288	Collegiate Institute for Math and Science	High School	69.7	B	65	B	A	A	A	1.9	Shadia Alvarez	543	16.0%	7.2%	4.6%	73.3%	83.6%	3.3%	3.06	2.55
+11X290	Bronx Academy of Health Careers	High School	74.6	A	77	B	B	A	A	6.2	Marvia Lindsay	483	21.3%	9.9%	11.8%	52.6%	94.8%	7.9%	2.54	1.79
+11X299	Astor Collegiate Academy	High School	58.3	B	31	C	B	C	C	4.4	Sandra Burgos	497	24.1%	10.9%	7.6%	71.8%	81.7%	8.0%	2.64	1.87
+11X415	Christopher Columbus High School	High School	.	.	.	.	.	.	.	.	Lisa Fuentes	727	27.9%	19.3%	15.8%	67.1%	81.4%	19.1%	2.34	1.24
+11X418	Bronx High School for the Visual Arts	High School	52.8	C	18	F	B	B	A	3.4	G Jones	483	26.1%	10.4%	8.3%	62.7%	91.7%	5.2%	2.61	1.80
+11X455	Harry S Truman High School	High School	71.0	A	69	B	A	C	A	7.5	Sana Nasser	1773	30.6%	19.2%	12.6%	55.5%	95.7%	10.0%	2.46	1.33
+11X508	Bronxdale High School	High School	.	.	.	.	.	.	.	.	John Chase Jr	95	27.4%	8.4%	7.4%	77.9%	82.1%	7.4%	2.83	2.04
+11X509	High School for Language and Innovation	High School	.	.	.	.	.	.	.	.	Julie Nariman	76	2.6%	0.0%	21.1%	93.4%	76.3%	82.9%	2.34	2.08
+11X513	New World High School	High School	85.1	A	95	A	A	A	A	9.0	Fausto Salazar	402	1.5%	0.7%	27.4%	93.8%	83.6%	82.1%	2.48	2.16
+11X514	The Bronxwood Preparatory Academy	High School	55.0	C	23	C	F	B	F	3.8	Janet Gallardo	416	23.8%	14.2%	10.3%	71.4%	95.7%	7.0%	2.43	1.57
+11X541	Global Enterprise High School	High School	.	.	.	.	.	.	.	.	Sandra Maldonado	270	20.0%	13.3%	13.7%	75.6%	90.0%	15.6%	2.47	1.66
+11X542	Pelham Preparatory Academy	High School	68.9	B	63	C	A	B	A	4.1	Carlos Santiago	507	16.0%	8.3%	4.9%	61.1%	89.9%	2.2%	2.86	2.32
+11X544	High School for Contemporary Arts	High School	69.7	B	65	B	A	B	C	5.8	Francisco Sanchez	479	24.0%	11.1%	14.4%	55.1%	97.1%	10.4%	2.53	1.68
+11X545	Bronx Aerospace High School	High School	78.0	A	86	B	A	C	A	8.6	Barbara Kirkweg	416	31.7%	14.9%	9.9%	53.1%	96.4%	14.9%	2.58	1.55
+12X242	Mott Hall V	High School	.	.	.	.	.	.	.	.	Peter Oroszlany	172	22.1%	5.8%	8.7%	82.4%	92.4%	8.1%	2.89	2.25
+12X245	New Day Academy	High School	.	.	.	.	.	.	.	.	Mara Ganeles	121	24.0%	8.3%	10.7%	82.7%	98.3%	11.6%	2.29	1.53
+12X248	"Metropolitan High School, The"	High School	87.5	A	96	A	A	A	C	8.9	Carla Theodorou	339	23.9%	13.9%	13.9%	86.7%	97.1%	21.8%	2.51	1.62
+12X251	Explorations Academy	High School	70.6	A	67	B	B	B	B	8.2	Susana Hernandez	362	25.1%	14.9%	14.6%	62.4%	96.4%	19.9%	2.42	1.47
+12X262	Performance Conservatory High School	High School	.	.	.	.	.	.	.	.	Eulynis Matthias Fridie	260	31.5%	18.1%	16.2%	61.2%	96.9%	10.4%	2.34	1.19
+12X267	Bronx Latin	High School	84.4	A	94	A	A	A	A	5.1	Leticia Pineiro	240	23.8%	9.6%	11.7%	88.3%	98.3%	14.2%	2.69	1.91
+12X271	East Bronx Academy for the Future	High School	67.5	B	59	C	A	B	D	7.8	Sarah Scrogin	367	24.0%	10.6%	11.2%	81.3%	97.8%	10.9%	2.48	1.68
+12X278	Peace and Diversity Academy	High School	44.2	D	6	F	F	B	D	2.3	Andrew Turay	231	21.6%	9.5%	19.5%	79.7%	97.4%	15.2%	2.33	1.51
+12X372	Urban Assembly School for Wildlife Conservation	High School	.	.	.	.	.	.	.	.	Mark Ossenheimer	179	21.8%	6.7%	8.4%	68.6%	89.9%	8.9%	2.61	1.95
+12X388	Pan American International High School at Monroe	High School	79.0	A	87	A	C	B	C	7.7	Bridgit Claire Bye	406	0.5%	0.5%	42.1%	96.3%	100.0%	96.8%	2.16	1.72
+12X478	THE CINEMA SCHOOL	High School	.	.	.	.	.	.	.	.	Rex Bobbish	223	7.6%	0.9%	3.6%	72.6%	93.7%	4.0%	3.00	2.79
+12X479	BRONX CAREER AND COLLEGE PREPARATORY HIGH SCHOOL	High School	.	.	.	.	.	.	.	.	Kizhaya Roberts	244	29.9%	19.3%	20.1%	83.2%	97.1%	16.8%	2.55	1.37
+12X511	Bronx Envision Academy	High School	.	.	.	.	.	.	.	.	Emily Shu	71	25.4%	11.3%	15.5%	73.2%	93.0%	11.3%	2.63	1.74
+12X521	The Metropolitan Soundview High School	High School	.	.	.	.	.	.	.	.	Michael Lanaghan	96	21.9%	12.5%	10.4%	82.3%	95.8%	16.7%	2.60	1.81
+12X550	High School of World Cultures	High School	59.2	B	33	D	B	B	D	7.9	Ramon Namnun	369	0.8%	0.0%	34.1%	93.5%	95.4%	86.4%	2.35	1.99
+12X682	Fannie Lou Hamer Freedom High School	High School	64.4	B	48	C	A	A	D	6.8	Nancy Mann	477	28.1%	14.3%	8.8%	64.4%	99.6%	11.5%	2.48	1.55
+12X684	Wings Academy	High School	52.7	C	18	D	C	C	C	4.5	Wayne Cox	538	24.5%	13.9%	8.4%	75.5%	97.2%	4.6%	2.56	1.71
+12X690	Monroe Academy for Business/Law	High School	.	.	.	.	.	.	.	.	Charles Ogundimu	249	23.3%	13.7%	14.5%	85.1%	96.0%	15.3%	2.42	1.54
+12X692	Monroe Academy for Visual Arts & Design	High School	57.1	C	28	B	D	D	F	5.6	Richard J. Massel	466	23.8%	12.2%	15.2%	91.8%	97.9%	32.0%	2.40	1.53
+13K265	Dr. Susan S. McKinney Secondary School of the Arts	High School	61.7	B	41	C	A	D	C	5.0	Paula Holmes	265	15.5%	1.9%	6.0%	75.2%	98.5%	2.6%	2.71	2.30
+13K336	Academy of Business and Community Development	High School	.	.	.	.	.	.	.	.	Simone A. Mcintosh	106	34.0%	17.9%	61.3%	77.3%	95.3%	4.7%	2.41	0.76
+13K350	Urban Assembly High School of Music and Art	High School	58.6	B	31	C	B	C	C	4.6	Paul Thompson	431	25.3%	10.9%	14.4%	77.3%	96.5%	4.6%	2.57	1.70
+13K412	"Brooklyn Community High School of Communication, Arts and Media"	High School	58.1	B	29	B	C	C	D	5.0	James O'brien	462	20.3%	7.8%	9.3%	67.1%	96.3%	2.8%	2.59	1.93
+13K419	"Science Skills Center High School for Science, Technology and the Creative Arts"	High School	66.4	B	54	B	B	C	A	3.3	Judy Henry	517	17.2%	8.1%	9.9%	64.6%	89.0%	7.2%	2.71	2.11
+13K430	Brooklyn Technical High School	High School	68.1	B	61	B	A	F	A	0.1	Randy Asher	5332	1.2%	0.0%	0.2%	61.0%	18.1%	0.1%	3.84	3.82
+13K439	Brooklyn International High School	High School	93.3	A	99	A	A	A	C	8.5	Pamela Taranto	367	0.5%	0.3%	22.6%	48.2%	48.8%	84.2%	2.57	2.33
+13K483	The Urban Assembly School for Law and Justice	High School	76.4	A	82	A	A	A	A	3.3	Shannon Curran	450	15.8%	7.3%	1.8%	62.4%	97.6%	0.9%	2.91	2.43
+13K499	ACORN Community High School	High School	64.2	B	47	C	A	C	D	5.3	Andrea Piper	731	21.1%	11.1%	10.3%	77.7%	97.0%	3.0%	2.58	1.83
+13K509	Freedom Academy High School	High School	37.9	F	2	F	C	F	B	3.1	Alyson Forde	218	24.3%	9.6%	15.6%	72.9%	97.2%	1.8%	2.53	1.69
+13K527	Urban Assembly Institute of Math and Science for Young Women	High School	.	.	.	.	.	.	.	.	Kiri Soares	223	12.1%	3.6%	4.9%	65.7%	90.6%	2.2%	2.76	2.40
+13K595	Bedford Academy High School	High School	81.9	A	92	A	A	A	B	2.6	Adofo Muhammad	367	6.0%	0.3%	2.5%	49.9%	96.5%	1.1%	3.16	3.01
+13K605	George Westinghouse Career and Technical Education High School	High School	49.9	C	14	C	D	F	C	4.0	Janine Kieran	927	18.8%	10.4%	6.5%	71.8%	95.4%	1.9%	2.64	1.99
+13K670	Benjamin Banneker Academy	High School	59.6	B	36	B	B	D	B	0.4	Deonca Renee	895	4.1%	1.1%	1.9%	47.6%	95.9%	0.0%	3.32	3.19
+13K674	"CITY POLYTECHNIC HIGH SCHOOL OF ENGINEERING, ARCHITECTURE, AND TECHNOLOGY"	High School	.	.	.	.	.	.	.	.	Chris Aguirre	335	19.4%	8.7%	3.9%	65.7%	87.2%	3.6%	2.84	2.24
+14K071	Juan Morel Campos Secondary School	High School	52.7	C	18	C	F	D	D	5.3	Howard Fineman	443	26.9%	15.6%	14.0%	63.1%	97.1%	24.6%	2.50	1.51
+14K322	Foundations Academy	High School	38.3	F	3	F	F	F	C	5.3	Jimmy Molina	141	37.6%	23.4%	22.0%	76.6%	96.5%	6.4%	2.34	0.90
+14K449	"Brooklyn Latin School, The"	High School	69.8	B	65	B	A	A	A	0.0	Jason Griffiths	468	2.4%	0.0%	0.4%	54.1%	46.4%	0.4%	3.68	3.63
+14K454	Green School: An Academy for Environmental Careers	High School	61.6	B	41	C	B	D	B	8.3	Cara Tait	392	19.4%	9.4%	15.1%	78.3%	94.6%	12.0%	2.55	1.82
+14K474	PROGRESS High School for Professional Careers	High School	62.5	B	42	C	B	B	D	4.5	William Jusino	1068	15.7%	6.9%	9.1%	80.0%	97.8%	16.3%	2.59	2.05
+14K477	School for Legal Studies	High School	47.3	C	9	F	C	C	A	4.8	Monica Ortiz	759	16.2%	6.6%	9.5%	79.6%	97.0%	6.1%	2.67	2.12
+14K478	"The High School for Enterprise, Business and Technology"	High School	68.2	B	61	B	A	C	B	5.0	Holger Carrillo	976	15.1%	7.3%	8.3%	71.3%	94.8%	9.9%	2.81	2.28
+14K488	Brooklyn Preparatory High School	High School	70.7	A	67	B	A	B	C	5.2	Noah Lansner	400	19.5%	5.5%	5.3%	73.0%	96.5%	3.0%	2.69	2.13
+14K558	Williamsburg High School for Architecture and Design	High School	93.4	A	99	A	A	A	B	7.3	Gill Cornell	500	19.2%	5.4%	8.2%	72.6%	95.8%	7.0%	2.71	2.14
+14K561	Williamsburg Preparatory School	High School	82.7	A	94	A	A	A	B	5.6	Michael Shadrick	577	15.3%	6.1%	5.2%	48.0%	87.0%	2.8%	2.83	2.35
+14K586	Lyons Community School	High School	65.8	B	52	B	B	A	F	5.0	Taeko Onishi	316	21.5%	9.2%	17.4%	83.1%	95.9%	15.2%	2.46	1.68
+14K610	Automotive High School	High School	53.7	C	20	F	A	F	B	8.6	Caterina Lafergola	719	32.7%	15.0%	16.3%	67.6%	96.5%	4.7%	2.49	1.38
+14K614	Young Women's Leadership School of Brooklyn	High School	.	.	.	.	.	.	.	.	Talana Bradley	70	15.7%	4.3%	4.3%	72.4%	92.9%	0.0%	2.96	2.52
+14K632	Frances Perkins Academy	High School	81.0	A	92	A	B	B	D	10.0	"Santana, Jocelyn"	172	28.5%	15.1%	15.1%	93.6%	95.3%	9.9%	2.46	1.44
+14K685	El Puente Academy for Peace and Justice	High School	81.8	A	92	A	A	A	F	6.8	Wanda Vazquez	218	24.8%	12.4%	9.6%	72.0%	97.7%	17.0%	2.47	1.63
+15K429	Brooklyn School for Global Studies	High School	58.1	B	30	C	B	D	D	4.5	Joseph O'brien	257	27.2%	9.3%	9.3%	75.4%	93.4%	4.3%	2.58	1.75
+15K448	Brooklyn Secondary School for Collaborative Studies	High School	70.7	A	68	C	A	C	B	9.0	Alyce Barr	365	27.4%	2.5%	4.7%	63.4%	83.0%	3.8%	2.69	2.05
+15K462	Secondary School for Law	High School	54.6	C	22	C	C	C	C	3.3	Oneatha Swinton	428	13.8%	6.1%	7.9%	77.4%	91.8%	5.1%	2.80	2.32
+15K463	Secondary School for Journalism	High School	51.1	C	15	C	C	C	D	2.1	Abbie Reif	296	16.6%	8.4%	9.8%	77.1%	85.5%	15.5%	2.68	2.08
+15K464	Park Slope Collegiate	High School	48.4	C	12	F	C	C	A	3.6	Jill Bloomberg	301	16.6%	11.0%	5.6%	77.7%	83.7%	10.6%	2.63	2.02
+15K497	School for International Studies	High School	60.3	B	39	C	B	B	B	3.0	Fred Walsh	332	14.2%	7.2%	9.3%	72.8%	79.8%	13.6%	2.70	2.18
+15K519	Cobble Hill School of American Studies	High School	60.2	B	39	C	B	C	C	5.1	Annamaria Mule	663	21.7%	12.4%	14.2%	79.5%	92.5%	8.0%	2.52	1.70
+15K530	Metropolitan Corporate Academy High School	High School	.	.	.	.	.	.	.	.	Lennel George	186	22.0%	11.3%	17.7%	46.2%	97.3%	1.6%	2.34	1.49
+15K656	Brooklyn High School of the Arts	High School	54.3	C	22	C	B	F	C	2.3	Margaret Lacey Berman	678	9.4%	2.4%	2.8%	61.1%	95.6%	0.1%	2.91	2.65
+15K667	SUNSET PARK HIGH SCHOOL	High School	.	.	.	.	.	.	.	.	Corinne Vinal	988	24.0%	7.9%	4.6%	77.0%	88.7%	14.6%	2.66	1.97
+15K684	Millennium Brooklyn HS	High School	.	.	.	.	.	.	.	.	Lisa Gioe	107	10.3%	0.9%	0.9%	35.5%	47.7%	0.0%	3.40	3.17
+16K393	Frederick Douglass Academy IV Secondary School	High School	42.3	D	4	D	C	F	F	2.5	Elvin Crespo	266	20.3%	8.6%	8.3%	70.4%	97.7%	0.8%	2.53	1.86
+16K455	Boys and Girls High School	High School	33.4	F	1	F	F	D	F	3.0	Bernard Gassaway	1631	24.2%	15.2%	17.0%	66.5%	98.1%	2.7%	2.40	1.44
+16K498	Brooklyn High School for Law and Technology	High School	72.1	A	72	B	B	A	C	7.5	Michael Prayor	405	22.7%	14.1%	10.9%	55.1%	98.0%	4.7%	2.54	1.69
+16K594	Gotham Professional Arts Academy	High School	66.3	B	55	B	C	B	C	6.5	Alexander White	294	20.1%	9.2%	11.9%	75.5%	97.6%	2.4%	2.57	1.87
+16K688	The Brooklyn Academy of Global Finance	High School	.	.	.	.	.	.	.	.	Kavita Gupta	159	23.3%	15.7%	16.4%	61.0%	95.6%	6.3%	2.56	1.62
+17K122	Pathways in Technology Early College High School (P-Tech)	High School	.	.	.	.	.	.	.	.	Rashid Davis	104	18.3%	6.7%	3.8%	66.3%	92.3%	1.9%	2.93	2.39
+17K382	Academy for College Preparation and Career Exploration: A College Board School	High School	66.4	B	55	B	A	D	B	5.3	Doris Unger	386	15.0%	6.2%	11.7%	64.1%	98.7%	5.2%	2.63	2.09
+17K408	Academy of Hospitality and Tourism	High School	57.0	C	27	D	B	F	A	7.7	Adam Breier	319	17.2%	8.8%	22.6%	76.8%	97.2%	12.9%	2.47	1.72
+17K524	International High School at Prospect Heights	High School	76.3	A	82	A	F	A	D	8.7	Nedda De Castro	401	3.0%	0.5%	20.7%	39.4%	57.1%	93.3%	2.32	2.04
+17K528	The High School for Global Citizenship	High School	48.0	C	11	F	B	C	D	3.3	Michelle Rochon	343	17.5%	8.7%	17.2%	67.6%	96.5%	5.2%	2.49	1.79
+17K531	"School for Human Rights, The"	High School	79.8	A	89	B	A	A	C	7.1	Michael Alexander	251	15.9%	3.2%	12.4%	78.8%	96.4%	6.0%	2.61	2.11
+17K533	School for Democracy and Leadership	High School	47.8	C	10	D	C	F	B	3.0	James Olearchik	313	17.3%	8.0%	14.1%	68.5%	97.8%	3.2%	2.51	1.86
+17K537	High School for Youth and Community Development at Erasmus	High School	71.2	A	70	B	B	B	B	6.3	Mary Prendergast	383	19.1%	8.6%	18.5%	73.4%	96.6%	9.1%	2.47	1.73
+17K539	High School for Service & Learning at Erasmus	High School	75.1	A	80	B	A	B	B	6.2	Peter Fabianski	422	20.6%	8.5%	20.9%	71.6%	96.0%	9.0%	2.50	1.71
+17K543	"Science, Technology and Research Early College High School at Erasmus"	High School	79.6	A	88	A	A	A	A	0.4	Dr. Eric L. Blake	313	3.8%	0.0%	1.3%	66.2%	92.9%	0.0%	3.18	3.09
+17K544	International Arts Business School	High School	.	.	.	.	.	.	.	.	Ms. Sheila Hanley	390	21.8%	8.5%	17.4%	77.2%	96.9%	7.9%	2.57	1.79
+17K546	High School for Public Service: Heroes of Tomorrow	High School	72.6	A	74	B	A	A	B	1.8	Ben Shuldiner	417	7.0%	0.5%	3.1%	73.9%	95.4%	0.5%	3.05	2.87
+17K547	Brooklyn Academy of Science and the Environment	High School	52.9	C	19	C	C	D	C	3.7	Veronica Peterson	470	13.8%	5.1%	6.6%	67.7%	94.0%	6.8%	2.72	2.28
+17K548	Brooklyn School for Music & Theatre	High School	60.2	B	38	B	B	C	D	2.9	Pamela Randazzo-Dorcely	412	13.6%	2.4%	6.3%	69.2%	98.1%	0.5%	2.62	2.23
+17K590	Medgar Evers College Preparatory School	High School	61.4	B	40	C	A	C	B	0.3	Dr. Michael A. Wiltshire	866	2.7%	0.0%	1.5%	57.2%	98.8%	0.0%	3.33	3.26
+17K600	Clara Barton High School	High School	51.5	C	16	C	C	D	B	2.1	Dr. Richard A. Forman	1608	14.1%	9.8%	5.3%	71.3%	97.0%	8.6%	2.84	2.31
+17K625	Paul Robeson High School	High School	.	.	.	.	.	.	.	.	Ronald Williams Wells	326	29.1%	18.4%	19.3%	75.2%	96.6%	3.4%	2.32	1.17
+17K751	ACADEMY FOR HEALTH CAREERS	High School	.	.	.	.	.	.	.	.	Deonne Martin	137	17.5%	13.9%	11.7%	92.0%	94.9%	8.0%	2.71	1.96
+18K563	It Takes a Village Academy	High School	98.7	A	100	A	A	A	A	12.9	Marina Vinitskaya	382	14.7%	5.0%	31.2%	78.3%	97.4%	30.4%	2.57	1.87
+18K566	Brooklyn Generation School	High School	55.6	C	24	B	D	D	F	5.9	Lydia Colon Bomani	331	23.0%	8.5%	19.6%	67.7%	97.6%	6.0%	2.52	1.69
+18K567	Brooklyn Theatre Arts High School	High School	47.9	C	11	C	C	F	F	5.1	Amy Murphy	382	25.1%	10.2%	11.3%	70.2%	97.1%	5.0%	2.57	1.75
+18K569	Kurt Hahn Expeditionary Learning School	High School	72.4	A	73	B	A	B	A	6.0	Matt Brown	294	22.4%	6.5%	18.4%	68.0%	96.9%	9.9%	2.56	1.79
+18K576	Victory Collegiate High School	High School	76.8	A	84	B	A	A	C	4.9	Marcel D. Deans	325	19.4%	7.1%	15.1%	72.3%	99.4%	5.2%	2.61	1.93
+18K589	Arts & Media Preparatory Academy	High School	48.9	C	13	D	B	D	F	4.6	Robert Hall	293	18.8%	7.8%	8.9%	66.9%	99.0%	3.4%	2.55	1.93
+18K617	High School for Innovation in Advertising and Media	High School	51.6	C	16	C	C	C	C	2.3	Adaleza Michelena	310	21.3%	11.3%	12.6%	63.2%	96.5%	8.4%	2.60	1.82
+18K629	Cultural Academy for the Arts and Sciences	High School	67.0	B	58	B	B	B	B	4.2	Diane Varano	299	20.4%	11.4%	8.7%	81.6%	98.0%	7.7%	2.52	1.79
+18K633	High School for Medical Professions	High School	74.5	A	77	A	A	C	F	3.2	Joseph Scarmato	459	12.0%	5.7%	4.1%	79.1%	97.6%	3.3%	2.85	2.45
+18K637	Academy for Conservation and the Environment	High School	48.7	C	13	C	D	C	F	4.0	Eugene Mazzola	274	21.9%	10.9%	17.9%	66.4%	96.4%	7.7%	2.53	1.69
+18K642	Urban Action Academy	High School	47.1	C	9	C	F	C	F	4.2	Abe Correa	305	16.1%	10.5%	15.7%	71.1%	93.4%	11.5%	2.53	1.84
+19K404	Academy for Young Writers	High School	59.7	B	36	C	A	C	C	3.6	Courtney Winkfield	400	16.8%	8.5%	13.0%	70.3%	96.0%	2.8%	2.65	2.02
+19K409	East New York Family Academy	High School	48.8	C	13	C	D	D	D	0.7	Sheila Richards	288	5.2%	0.7%	1.4%	75.5%	97.6%	0.7%	3.06	2.93
+19K420	Franklin K. Lane High School	High School	.	.	.	.	.	.	.	.	Marlon Bynum	112	17.0%	7.1%	17.0%	46.4%	93.8%	52.7%	1.96	1.31
+19K502	FDNY High School for Fire and Life Safety	High School	66.4	B	55	B	B	B	F	6.0	James Anderson	381	24.1%	8.7%	11.3%	75.1%	97.1%	5.2%	2.47	1.70
+19K504	High School for Civil Rights	High School	51.9	C	17	D	B	C	F	5.3	Michael S. Steele	401	19.2%	9.7%	21.4%	69.3%	96.3%	10.5%	2.42	1.63
+19K507	Performing Arts and Technology High School	High School	59.9	B	36	B	B	D	D	4.2	Reginald Richardson	453	21.0%	11.9%	12.4%	78.4%	98.9%	4.9%	2.52	1.74
+19K510	World Academy for Total Community Health High School	High School	59.4	B	34	B	C	F	C	2.3	Kim Wanliss	380	20.5%	8.7%	14.7%	71.1%	95.5%	4.5%	2.53	1.80
+19K583	Multicultural High School	High School	43.0	D	5	C	F	B	F	3.5	Alexandra Hernandez	406	1.2%	0.7%	26.6%	91.4%	100.0%	94.8%	2.18	1.88
+19K615	Transit Tech Career and Technical Education High School	High School	56.8	C	26	C	B	D	B	4.0	Neil Harris	1317	17.9%	8.8%	7.0%	44.6%	93.6%	2.6%	2.69	2.09
+19K618	Academy of Innovative Technology	High School	66.8	B	56	C	C	B	A	8.5	Cynthia Fowlkes	404	21.8%	11.4%	9.4%	74.3%	89.1%	12.1%	2.52	1.76
+19K639	Brooklyn Lab School	High School	43.1	D	5	D	F	F	D	3.3	Renel Piton	397	23.4%	11.6%	17.4%	80.4%	96.2%	16.1%	2.48	1.61
+19K659	Cypress Hills Collegiate Preparatory School	High School	45.2	D	7	D	F	C	D	3.7	Alex Maysonet	436	15.8%	6.9%	13.1%	71.6%	90.1%	17.4%	2.51	1.92
+19K660	W. H. Maxwell Career and Technical Education High School	High School	65.7	B	52	B	B	C	D	5.2	Jocelyn Badette	590	29.3%	21.5%	15.8%	60.2%	97.3%	5.9%	2.38	1.21
+19K683	"THE SCHOOL FOR CLASSICS: AN ACADEMY OF THINKERS, WRITERS AND PERFORMERS"	High School	81.5	A	92	A	A	A	D	3.7	Janice Ross	311	19.9%	13.8%	11.6%	84.2%	89.1%	9.0%	2.56	1.77
+20K445	New Utrecht High School	High School	68.7	B	62	B	B	D	A	7.5	Maureen Goldfarb	3276	18.0%	9.1%	10.4%	59.2%	33.5%	24.8%	2.78	2.14
+20K485	High School of Telecommunication Arts and Technology	High School	78.9	A	87	B	A	A	A	4.8	Philip Weinberg	1280	22.4%	6.5%	2.4%	37.7%	63.5%	5.0%	2.96	2.36
+20K490	Fort Hamilton High School	High School	60.4	B	39	C	C	B	A	3.8	Jo Ann Chester	4275	14.4%	7.7%	6.2%	58.8%	35.3%	22.1%	2.93	2.43
+20K505	Franklin Delano Roosevelt High School	High School	65.4	B	50	B	C	B	B	8.3	Steven Demarco	3108	12.6%	7.5%	15.2%	73.4%	36.9%	39.7%	2.79	2.23
+20K609	Urban Assembly School for Criminal Justice	High School	.	.	.	.	.	.	.	.	Mariela Graham	164	15.2%	4.3%	10.4%	82.6%	50.6%	13.4%	2.84	2.35
+21K337	International High School at Lafayette	High School	63.9	B	46	B	F	A	D	7.5	Jon Harriman	343	0.6%	0.6%	19.5%	39.1%	35.3%	90.1%	2.47	2.26
+21K344	Rachel Carson High School for Coastal Studies	High School	68.4	B	61	B	B	C	A	6.1	Edward Wilensky	481	18.7%	5.4%	5.6%	41.4%	49.9%	11.4%	2.77	2.23
+21K348	High School of Sports Management	High School	52.3	C	17	F	B	C	C	4.9	Robin Pitts	370	17.8%	5.7%	8.4%	48.9%	91.4%	2.4%	2.63	2.07
+21K410	Abraham Lincoln High School	High School	56.5	C	25	C	C	B	B	3.8	Ari Hoogenboom	2593	14.7%	7.2%	7.2%	56.3%	55.2%	16.8%	2.83	2.32
+21K468	Kingsborough Early College School	High School	.	.	.	.	.	.	.	.	Connie Hamilton	237	13.9%	0.0%	1.7%	36.4%	50.2%	0.8%	3.12	2.82
+21K525	Edward R. Murrow High School	High School	65.8	B	52	C	B	B	A	3.2	Anthony R. Lodico	4022	15.9%	7.9%	2.9%	42.4%	41.7%	9.6%	3.09	2.59
+21K540	John Dewey High School	High School	63.7	B	45	B	C	C	B	6.0	Barry Fried	2168	11.1%	5.5%	6.9%	66.7%	49.7%	20.8%	2.85	2.45
+21K559	Life Academy High School for Film and Music	High School	62.5	B	42	C	A	B	F	5.5	Lisa Ferraiola	251	22.3%	7.6%	10.0%	43.4%	74.5%	4.8%	2.61	1.91
+21K572	Expeditionary Learning School for Community Leaders	High School	63.6	B	45	B	F	A	D	4.0	David Ohara	226	17.3%	7.1%	8.0%	44.7%	60.6%	21.7%	2.71	2.14
+21K620	William E. Grady Career and Technical Education High School	High School	65.6	B	51	C	B	A	B	6.5	Geraldine Maione	955	27.9%	14.1%	10.1%	75.3%	89.7%	3.4%	2.56	1.62
+21K690	Brooklyn Studio Secondary School	High School	59.8	B	36	B	C	F	B	3.2	Andrea Ciliotta	639	20.0%	4.2%	3.4%	54.2%	32.7%	7.2%	2.90	2.38
+22K405	Midwood High School	High School	58.7	B	32	C	B	B	A	1.9	David Cohen	3842	7.0%	2.7%	1.4%	43.1%	47.0%	3.7%	3.30	3.09
+22K425	James Madison High School	High School	64.6	B	48	C	C	A	A	5.0	Joseph A. Gogliormella	3076	14.9%	6.6%	3.7%	62.9%	32.5%	13.5%	2.96	2.49
+22K495	Sheepshead Bay High School	High School	40.5	D	3	F	F	F	C	3.9	John Omahoney	1928	15.4%	9.0%	15.1%	57.2%	77.9%	22.0%	2.59	1.95
+22K535	Leon M. Goldstein High School for the Sciences	High School	78.5	A	86	A	A	A	A	1.0	Joseph Zaza	1022	9.2%	0.6%	0.0%	29.8%	20.4%	0.5%	3.61	3.41
+22K555	Brooklyn College Academy	High School	75.5	A	80	A	B	A	A	1.1	Nicholas Mazzarella	570	3.3%	0.0%	1.2%	54.3%	90.2%	0.0%	3.32	3.24
+23K493	Brooklyn Collegiate: A College Board School	High School	54.0	C	21	C	B	D	B	2.5	Amote Sias/Zipora Steiner	374	19.0%	10.7%	7.0%	75.9%	97.1%	1.3%	2.61	1.95
+23K514	Frederick Douglass Academy VII High School	High School	53.1	C	19	D	B	C	B	4.0	Jessica Endlich	365	24.1%	11.0%	9.6%	45.8%	98.9%	1.4%	2.64	1.84
+23K644	Eagle Academy for Young Men II	High School	.	.	.	.	.	.	.	.	Rashad Meade	83	34.9%	13.3%	3.6%	70.8%	100.0%	4.8%	2.76	1.76
+23K697	Teachers Preparatory High School	High School	66.3	B	54	B	A	C	B	2.1	Carmen Simon	422	18.2%	9.7%	8.1%	43.5%	97.4%	2.1%	2.70	2.06
+24Q264	Academy of Finance and Enterprise	High School	87.5	A	96	A	A	B	A	7.3	Gilberto Vega	420	11.2%	1.7%	4.0%	62.6%	66.2%	7.9%	3.04	2.74
+24Q267	High School of Applied Communication	High School	78.0	A	85	A	A	B	B	5.6	Daniel Korb	388	19.1%	2.6%	6.2%	65.5%	70.1%	10.3%	2.71	2.21
+24Q293	Civic Leadership Academy	High School	87.1	A	96	A	A	A	A	5.6	Phuong Nguyen	449	21.4%	5.1%	5.1%	69.0%	88.4%	9.1%	2.69	2.11
+24Q296	Pan American International High School	High School	46.4	D	8	C	F	B	F	5.2	Marcella Barros	366	1.6%	0.8%	12.8%	82.8%	100.0%	91.8%	2.25	2.07
+24Q299	Bard High School Early College Queens	High School	74.8	A	79	A	A	B	A	0.0	Valeri Thomson	631	1.0%	0.0%	1.4%	35.2%	37.4%	0.3%	3.77	3.74
+24Q455	Newtown High School	High School	60.1	B	38	C	C	B	B	6.8	John Ficalora	2571	12.8%	5.9%	17.2%	58.0%	69.9%	31.9%	2.62	2.07
+24Q485	Grover Cleveland High School	High School	60.0	B	38	B	F	A	C	3.9	Denise Vittor	2069	15.3%	7.4%	9.6%	61.7%	67.9%	22.5%	2.68	2.13
+24Q520	Middle College High School at LaGuardia Community College	High School	58.3	B	30	D	B	B	B	5.9	Linda Siegmund	497	15.5%	1.2%	5.2%	59.8%	80.9%	0.2%	2.72	2.33
+24Q530	International High School at LaGuardia Community College	High School	90.7	A	98	A	B	A	A	8.7	John Starkey	493	0.4%	0.0%	16.6%	79.5%	46.2%	76.7%	2.58	2.40
+24Q550	High School for Arts and Business	High School	78.2	A	86	A	A	A	C	5.6	Ana R. Zambrano-Burakov	828	14.1%	2.8%	3.3%	41.9%	87.6%	13.3%	2.77	2.40
+24Q560	"Robert F. Wagner, Jr. Secondary School for Arts and Technology"	High School	56.9	C	26	C	D	B	C	1.9	Ann Seifullah	491	16.5%	1.4%	2.0%	60.2%	73.7%	4.9%	2.98	2.60
+24Q585	Maspeth High School	High School	.	.	.	.	.	.	.	.	Khurshid Abdul-Mutakabbir	248	10.1%	3.6%	2.0%	52.0%	50.8%	5.2%	3.04	2.75
+24Q600	Queens Vocational and Technical High School	High School	67.0	B	57	C	B	B	B	5.1	Melissa Burg	1368	17.5%	5.2%	3.8%	74.7%	81.1%	6.4%	2.96	2.46
+24Q610	Aviation Career & Technical Education High School	High School	76.4	A	82	A	A	A	A	2.9	Deno Charalambous	2201	7.2%	2.7%	1.6%	27.9%	62.2%	3.2%	3.18	2.97
+25Q252	"Queens School of Inquiry, The"	High School	59.2	B	33	D	B	B	A	3.6	Meredith Inbal	309	11.3%	0.3%	2.3%	43.8%	43.0%	2.3%	3.24	2.99
+25Q263	Flushing International High School	High School	65.5	B	51	B	F	A	D	7.2	Lara Evangelista	422	1.7%	0.2%	19.4%	80.1%	33.9%	89.3%	2.61	2.38
+25Q281	East-West School of International Studies	High School	68.7	B	62	B	A	C	B	4.9	Ben Sherman	361	14.4%	1.4%	5.8%	66.7%	39.3%	16.3%	3.13	2.75
+25Q285	World Journalism Preparatory: A College Board School	High School	76.7	A	83	A	A	A	B	1.6	Cynthia Schneider	342	20.5%	0.9%	2.0%	34.6%	32.5%	0.3%	3.11	2.66
+25Q425	John Bowne High School	High School	53.4	C	19	C	D	F	C	5.9	Howard Kwait	3659	12.5%	5.8%	11.0%	70.8%	59.9%	26.1%	2.84	2.36
+25Q460	Flushing High School	High School	45.3	D	7	F	F	D	C	5.4	"Carl D. Hudson, Jr."	3113	13.7%	5.8%	8.7%	67.0%	76.2%	20.5%	2.73	2.26
+25Q525	Townsend Harris High School	High School	83.3	A	94	A	A	A	A	0.0	Kenneth Bonamo	1140	0.5%	0.0%	0.2%	32.3%	18.9%	0.0%	4.01	4.00
+25Q670	Robert F. Kennedy Community High School	High School	67.9	B	60	B	B	A	A	2.1	Beshir Abdellatif	721	22.2%	2.9%	4.3%	62.3%	46.9%	7.5%	2.92	2.38
+26Q415	Benjamin N. Cardozo High School	High School	62.6	B	43	C	B	C	A	2.9	Gerald Martori	3912	14.3%	6.1%	2.8%	39.3%	37.0%	6.2%	3.26	2.82
+26Q430	Francis Lewis High School	High School	76.7	A	83	B	A	A	A	4.2	Musa Ali Shama	4152	14.2%	8.4%	4.6%	56.7%	32.4%	13.2%	3.24	2.74
+26Q435	Martin Van Buren High School	High School	47.6	C	10	C	D	F	C	3.2	Marilyn Shevell	2390	14.6%	7.5%	10.9%	47.2%	71.4%	10.3%	2.61	2.06
+26Q495	Bayside High School	High School	74.9	A	79	B	A	B	A	4.2	Michael Athy	3308	13.5%	5.6%	2.6%	53.9%	35.0%	5.8%	3.24	2.83
+26Q566	"Queens High School of Teaching, Liberal Arts and the Sciences"	High School	65.3	B	50	C	A	C	B	3.5	Jae Hyun Cho	1195	19.2%	4.6%	2.3%	43.9%	63.0%	2.7%	2.97	2.47
+27Q260	Frederick Douglass Academy VI High School	High School	47.1	C	9	F	B	F	A	6.0	Linda Alfred	444	17.1%	7.2%	7.7%	70.5%	93.9%	4.3%	2.66	2.10
+27Q262	Channel View School for Research	High School	82.9	A	94	A	A	A	B	4.0	Patricia J. Tubridy	409	15.6%	5.4%	3.9%	59.4%	80.4%	1.5%	2.96	2.50
+27Q302	"Queens High School for Information, Research, and Technology"	High School	54.0	C	21	C	A	F	C	3.7	Edward Shepard	310	18.4%	10.6%	15.8%	73.5%	90.6%	10.6%	2.61	1.87
+27Q308	Robert H. Goddard High School of Communication Arts and Technology	High School	71.9	A	72	B	A	B	C	4.0	Joseph Birgeles	578	18.0%	9.5%	3.1%	67.1%	50.3%	3.6%	2.97	2.38
+27Q309	Academy of Medical Technology: A College Board School	High School	59.7	B	36	C	A	C	C	3.8	Jose Merced	335	15.5%	7.2%	7.8%	70.6%	87.8%	9.6%	2.72	2.19
+27Q323	Scholars' Academy	High School	80.6	A	90	A	A	A	A	0.0	Brian O'connell	420	0.7%	0.0%	0.2%	37.9%	36.7%	0.0%	3.69	3.67
+27Q324	ROCKAWAY PARK HIGH SCHOOL FOR ENVIRONMENTAL SUSTAINABILITY	High School	.	.	.	.	.	.	.	.	Matthew Katz	203	20.2%	11.3%	16.7%	62.1%	78.8%	7.9%	2.65	1.85
+27Q351	Rockaway Collegiate High School	High School	.	.	.	.	.	.	.	.	Robert Young Jr	98	26.5%	15.3%	9.2%	76.5%	85.7%	9.2%	2.65	1.72
+27Q400	August Martin High School	High School	41.7	D	4	F	F	B	D	3.1	Anthony Cromer	1029	22.6%	12.1%	16.4%	65.8%	91.5%	4.3%	2.53	1.67
+27Q410	Beach Channel High School	High School	.	.	.	.	.	.	.	.	David Morris	684	24.4%	12.4%	14.3%	45.3%	91.7%	12.4%	2.43	1.55
+27Q475	Richmond Hill High School	High School	48.2	C	11	C	F	F	C	3.4	Ms. Frances Desanctis	2585	16.4%	7.0%	8.7%	66.1%	63.2%	17.6%	2.66	2.10
+27Q480	John Adams High School	High School	47.5	C	10	D	F	D	C	4.0	Grace Zwillenberg	3384	14.7%	6.7%	14.1%	76.7%	64.8%	16.8%	2.61	2.04
+27Q650	"High School for Construction Trades, Engineering and Architecture"	High School	65.7	B	52	B	B	C	C	0.7	Lakeisha Gordon	924	7.6%	0.1%	1.9%	60.9%	52.8%	0.4%	3.27	3.09
+28Q157	J.H.S. 157 Stephen A. Halsey	High School	.	.	.	.	.	.	.	.	Vincent Suraci	88	42.0%	33.0%	25.0%	49.1%	52.3%	36.4%	2.67	0.92
+28Q284	York Early College Academy	High School	.	.	.	.	.	.	.	.	Deborah Burnett	235	6.8%	1.3%	1.7%	58.3%	82.6%	0.0%	3.20	3.03
+28Q310	Queens Collegiate: A College Board School	High School	74.6	A	78	A	A	B	A	4.7	Jaime Anne Dubei	381	15.2%	4.2%	7.1%	66.2%	64.3%	11.0%	2.83	2.37
+28Q325	HILLSIDE ARTS & LETTERS ACADEMY	High School	.	.	.	.	.	.	.	.	Matthew C. Ritter	200	13.0%	4.0%	11.0%	72.0%	62.5%	12.5%	2.75	2.30
+28Q328	HIGH SCHOOL FOR COMMUNITY LEADERSHIP	High School	.	.	.	.	.	.	.	.	Carlos Borrero	177	15.3%	4.0%	14.7%	76.8%	72.9%	27.7%	2.70	2.16
+28Q350	Jamaica Gateway to the Sciences	High School	71.5	A	71	B	A	B	A	0.3	Caren Birchwood Taylo	224	8.0%	2.7%	5.4%	64.3%	51.8%	4.5%	3.10	2.83
+28Q440	Forest Hills High School	High School	70.8	A	68	B	B	B	A	3.9	Saul Gootnick	3834	14.9%	6.3%	3.3%	47.8%	38.8%	9.1%	3.14	2.68
+28Q470	Jamaica High School	High School	.	.	.	.	.	.	.	.	Walter Acham	564	15.8%	8.2%	22.5%	62.2%	67.6%	31.0%	2.41	1.70
+28Q505	Hillcrest High School	High School	67.4	B	58	B	C	A	B	5.7	Stephen Duch	3103	12.0%	5.2%	9.2%	72.3%	59.8%	15.7%	2.75	2.32
+28Q620	Thomas A. Edison Career and Technical Education High School	High School	71.9	A	72	B	A	B	A	2.3	Anthony D. Barbetta	2252	13.7%	6.8%	3.3%	60.5%	44.8%	1.5%	3.18	2.73
+28Q680	Queens Gateway to Health Sciences Secondary School	High School	68.2	B	61	A	B	C	A	0.0	Dr. Cynthia Edwards	486	0.8%	0.0%	0.4%	53.9%	66.3%	0.0%	3.49	3.47
+28Q686	QUEENS METROPOLITAN HIGH SCHOOL	High School	.	.	.	.	.	.	.	.	Marci Levy Maguire	663	20.1%	4.7%	2.7%	39.7%	43.9%	3.8%	3.00	2.47
+28Q687	Queens High School for the Sciences at York College	High School	78.8	A	87	A	A	B	A	0.0	David Marmor	418	2.2%	0.0%	0.2%	40.0%	18.4%	0.2%	3.88	3.83
+28Q690	High School for Law Enforcement and Public Safety	High School	62.6	B	43	C	B	B	C	2.2	Diahann E. Malcolm	536	19.6%	11.9%	5.2%	61.6%	88.6%	2.2%	2.79	2.10
+28Q896	"Young Women's Leadership School, Queens"	High School	65.1	B	49	B	A	F	A	0.8	Avionne Gumbs	277	10.5%	2.5%	1.1%	62.2%	81.9%	3.2%	2.96	2.69
+29Q248	Queens Preparatory Academy	High School	58.8	B	32	B	C	C	C	4.5	Tashon Haywood	441	13.8%	3.6%	12.0%	63.0%	92.5%	5.2%	2.67	2.20
+29Q259	Pathways College Preparatory School: A College Board School	High School	53.6	C	20	C	B	F	C	2.9	Kimberly Mitchell	310	14.8%	5.2%	4.8%	59.5%	95.2%	2.6%	2.68	2.23
+29Q265	Excelsior Preparatory High School	High School	75.3	A	80	B	A	B	A	7.4	Lilly Lucas	443	17.6%	4.7%	10.2%	60.0%	93.9%	2.3%	2.64	2.10
+29Q272	George Washington Carver High School for the Sciences	High School	56.6	C	25	C	B	C	D	2.0	Dr. Janice M. Sutton	474	11.0%	3.6%	6.5%	61.2%	88.4%	1.9%	2.84	2.49
+29Q283	Preparatory Academy for Writers: A College Board School	High School	72.1	A	73	A	B	A	C	3.3	Charles Anderson	271	16.6%	5.2%	9.6%	62.6%	94.1%	3.0%	2.71	2.18
+29Q326	CAMBRIA HEIGHTS ACADEMY	High School	.	.	.	.	.	.	.	.	Melissa Menake	147	19.0%	5.4%	5.4%	56.5%	94.6%	2.0%	2.73	2.18
+29Q492	"Mathematics, Science Research and Technology Magnet High School"	High School	57.1	C	27	C	B	D	B	2.6	Jose Cruz	412	11.7%	7.8%	9.5%	58.3%	91.5%	5.1%	2.78	2.30
+29Q494	"Law, Government and Community Service High School"	High School	45.1	D	7	F	D	C	C	4.1	Donna Delfyett White	454	17.6%	10.8%	13.2%	55.9%	94.5%	2.9%	2.56	1.86
+29Q496	"Business, Computer Applications & Entrepreneurship High School"	High School	44.5	D	6	F	D	B	B	2.7	Herman Guy	353	24.4%	11.3%	17.0%	49.9%	90.9%	6.5%	2.44	1.56
+29Q498	Humanities & Arts Magnet High School	High School	60.9	B	40	C	A	B	D	3.5	Rosemarie Omard	480	17.9%	5.6%	8.1%	61.9%	94.4%	3.8%	2.66	2.11
+30Q286	"Young Women's Leadership School, Astoria"	High School	.	.	.	.	.	.	.	.	Laura A Mitchell	237	5.9%	0.0%	1.3%	68.7%	44.3%	6.3%	3.20	3.07
+30Q301	Academy for Careers in Television and Film	High School	96.6	A	100	A	A	A	A	6.0	Mark Dunetz	419	17.4%	4.1%	2.4%	57.8%	74.2%	2.9%	2.83	2.37
+30Q445	William Cullen Bryant High School	High School	54.8	C	23	C	D	C	B	4.5	Namita Dwarka	2945	13.7%	8.7%	9.6%	59.2%	56.2%	18.1%	2.82	2.27
+30Q450	Long Island City High School	High School	48.1	C	11	C	F	F	C	3.0	Maria Mamo Vacacela	3386	16.1%	7.3%	8.4%	65.6%	74.1%	13.9%	2.79	2.24
+30Q501	Frank Sinatra School of the Arts High School	High School	71.8	A	72	B	A	B	A	0.2	Donna Finn	756	3.8%	0.0%	0.1%	21.7%	44.3%	0.1%	3.49	3.41
+30Q502	Information Technology High School	High School	57.3	C	28	D	B	C	B	4.3	Nancy Casella	916	19.7%	6.6%	4.5%	73.1%	74.7%	9.6%	2.82	2.25
+30Q555	Newcomers High School	High School	79.5	A	88	B	A	A	B	9.2	Orlando Sarmiento	932	0.0%	0.1%	41.0%	80.8%	49.0%	93.5%	2.66	2.25
+30Q575	Academy of American Studies	High School	70.7	A	68	B	B	B	A	2.2	William Bassell	704	10.8%	2.0%	2.3%	55.3%	41.5%	5.7%	3.21	2.93
+30Q580	Baccalaureate School for Global Education	High School	71.9	A	72	A	B	B	A	0.0	Kelly Joan Johnson	259	0.8%	0.0%	0.4%	31.1%	32.4%	0.0%	3.64	3.62
+31R047	CSI High School for International Studies	High School	80.3	A	90	A	A	A	B	2.4	Joseph Canale	532	16.7%	3.8%	1.1%	31.6%	29.9%	0.2%	3.04	2.62
+31R064	Gaynor McCown Expeditionary Learning School	High School	74.0	A	76	A	A	B	D	4.5	Traci Frey	408	27.2%	5.9%	2.5%	36.8%	33.6%	1.0%	2.83	2.15
+31R080	The Michael J. Petrides School	High School	71.3	A	70	B	A	B	A	3.6	Joanne Buckheit	510	22.7%	9.8%	1.6%	35.1%	34.9%	1.4%	3.01	2.34
+31R440	New Dorp High School	High School	67.7	B	59	C	B	B	A	4.6	Ms. Deirdre Deangelis	2657	21.5%	9.1%	5.2%	47.9%	39.4%	6.2%	2.76	2.10
+31R445	Port Richmond High School	High School	59.0	B	32	C	C	B	A	4.6	Timothy M. Gannon	2151	24.6%	10.9%	7.3%	55.3%	68.8%	6.1%	2.63	1.84
+31R450	Curtis High School	High School	67.7	B	60	C	B	C	A	5.6	Aurelia Curtis	2552	18.9%	10.5%	7.4%	61.5%	70.3%	6.5%	2.71	2.05
+31R455	Tottenville High School	High School	65.3	B	50	C	B	B	A	2.2	John P. Tuminaro	3875	17.1%	5.4%	1.0%	20.3%	12.2%	1.4%	3.11	2.65
+31R460	Susan E. Wagner High School	High School	77.9	A	85	A	A	B	A	4.2	Mr. Gary M. Giordano	3242	21.6%	12.3%	4.6%	45.1%	35.7%	3.9%	2.97	2.25
+31R600	Ralph R. McKee Career and Technical Education High School	High School	68.7	B	63	B	B	C	A	6.6	Sharon Alicia Henry	675	29.5%	12.1%	7.1%	58.8%	73.5%	3.7%	2.57	1.67
+31R605	Staten Island Technical High School	High School	87.1	A	96	A	A	A	A	0.0	Vincent Maniscalco	1104	1.3%	0.0%	0.1%	19.2%	6.4%	0.1%	3.90	3.88
+32K168	The Brooklyn School for Math and Research	High School	.	.	.	.	.	.	.	.	Perry Rainey	43	9.3%	2.3%	11.6%	81.4%	88.4%	11.6%	2.76	2.41
+32K403	Academy for Environmental Leadership	High School	80.2	A	89	A	B	C	C	7.7	Nilda Gomez-Katz	362	19.6%	12.2%	16.0%	62.4%	98.1%	34.3%	2.42	1.62
+32K545	EBC High School for Public Service - Bushwick	High School	69.3	B	64	A	C	B	C	3.8	Shawn Brown	606	14.0%	7.1%	5.4%	90.8%	97.4%	17.2%	2.56	2.09
+32K549	Bushwick School for Social Justice	High School	58.3	B	31	C	B	B	D	5.1	Mark Rush	434	19.6%	10.4%	12.0%	63.6%	97.0%	18.7%	2.43	1.71
+32K552	Academy of Urban Planning	High School	50.4	C	14	D	B	F	D	6.5	Rodney Orji	398	23.4%	16.6%	19.6%	81.9%	97.0%	24.6%	2.40	1.40
+32K554	All City Leadership Secondary School	High School	78.5	A	86	A	A	A	A	1.3	Elvis Estevez	140	11.4%	4.3%	1.4%	81.4%	97.9%	4.3%	3.01	2.68
+32K556	Bushwick Leaders High School for Academic Excellence	High School	48.4	C	12	C	F	C	F	4.6	Catherine Reilly	462	21.0%	12.8%	9.5%	91.6%	99.1%	18.6%	2.48	1.70
+84K359	The Uft Charter School	High School	.	.	.	.	.	.	.	.	Michelle Bodden-White	171	8.2%	2.3%	5.8%	73.7%	96.5%	0.6%	2.71	2.45
+84K473	Williamsburg Charter High School	High School	66.5	B	55	B	B	B	C	4.4	Marsha Spampinato	1022	16.3%	5.4%	9.7%	71.7%	96.2%	4.0%	2.75	2.22
+84K693	Believe Northside Charter High School	High School	.	.	.	.	.	.	.	.	Reshma Baig	273	18.7%	6.6%	8.8%	71.4%	91.6%	5.9%	2.73	2.14
+84K694	Believe Southside Charter High School	High School	.	.	.	.	.	.	.	.	Shannon Browne	256	16.0%	4.7%	52.7%	73.0%	95.7%	5.5%	2.68	1.74
+84K888	Achievement First HS	High School	.	.	.	.	.	.	.	.	.	192	10.9%	0.5%	4.2%	71.1%	99.0%	0.0%	3.13	2.86
+84K999	Uncommon Charter HS	High School	.	.	.	.	.	.	.	.	.	147	6.8%	0.7%	3.4%	56.8%	99.3%	0.0%	3.56	3.38
+84M279	The Opportunity Charter School	High School	.	.	.	.	.	.	.	.	Marya Baker	226	52.2%	19.0%	18.6%	67.2%	99.1%	4.0%	2.27	0.66
+84M284	Harlem Children's Zone/Promise Academy Charter School	High School	92.7	A	99	A	A	B	A	3.1	Tonya White/Shakira Petit	129	19.4%	0.8%	7.8%	78.8%	98.4%	0.0%	2.97	2.49
+84M350	Democracy Preparatory Charter School	High School	.	.	.	.	.	.	.	.	Lisa Friscia/William Cooke	248	8.9%	0.8%	6.5%	67.7%	100.0%	0.4%	3.15	2.90
+84M353	New Heights Academy Charter School	High School	71.0	A	69	A	A	B	D	4.2	Robert Parkes/Leslie Ford	387	17.6%	1.8%	7.5%	86.6%	99.7%	15.0%	2.72	2.26
+84M433	The Renaissance Charter High School for Innovation	High School	.	.	.	.	.	.	.	.	Nicholas Tishuk	240	37.1%	21.3%	12.1%	75.0%	96.7%	6.3%	2.49	1.20
+84M522	Broome Street Academy Charter High School	High School	.	.	.	.	.	.	.	.	Jeremy Kaplan	120	40.8%	30.0%	40.0%	72.5%	92.5%	6.7%	2.42	0.61
+84M888	Harlem Village Academy HS	High School	53.9	C	21	C	D	A	A	0.0	.	201	9.5%	0.0%	6.0%	63.5%	97.0%	1.0%	3.46	3.21
+84M999	KIPP NYC College Prep	High School	.	.	.	.	.	.	.	.	.	503	15.7%	0.8%	6.8%	77.1%	99.0%	1.6%	3.20	2.80
+84Q705	"Renaissance Charter School, The"	High School	68.8	B	63	B	A	B	A	2.0	Stacey Gauthier	210	17.6%	1.9%	3.3%	47.1%	71.4%	3.3%	3.01	2.59
+84X185	The Bronx Lighthouse Charter School	High School	.	.	.	.	.	.	.	.	Meghan Kimpton (K-4)/Richard Burke (5-8)	47	14.9%	2.1%	2.1%	77.4%	100.0%	2.1%	2.86	2.50
+84X345	Hyde Leadership Charter School	High School	.	.	.	.	.	.	.	.	Betsy Olney	211	19.0%	0.9%	7.1%	78.2%	99.1%	3.8%	2.79	2.32
+84X347	International Leadership Charter School	High School	92.7	A	99	A	A	B	B	8.1	Elaine Ruiz Lopez	301	10.6%	1.7%	3.0%	85.4%	97.0%	8.6%	2.81	2.54
+84X393	Green Dot NY Charter School	High School	91.2	A	98	A	A	A	C	7.7	Ashish Kapadia	380	13.7%	1.3%	5.8%	81.3%	96.8%	9.5%	2.77	2.41
+84X395	"NYC CHARTER HIGH SCHOOL FOR ARCHITECTURE, ENGINEERING AND CONSTRUCTION INDUSTRIES"	High School	59.5	B	34	B	C	C	F	3.8	Eugene Foley	398	13.8%	3.5%	13.1%	90.2%	99.7%	13.3%	2.63	2.16
+84X539	The New Visions Charter High School for Advanced Math and Science	High School	.	.	.	.	.	.	.	.	Julia Chun	123	17.9%	8.9%	3.3%	72.4%	98.4%	8.9%	2.85	2.28
+84X553	The New Visions Charter High School for the Humanities	High School	.	.	.	.	.	.	.	.	Seth Ari Lewis Levin	127	22.8%	11.0%	3.9%	80.3%	92.9%	18.1%	2.70	1.98
+84X703	Bronx Prep Charter School	High School	43.2	D	5	F	D	B	F	2.4	Jacqueline King-Robinson	328	8.2%	0.0%	4.3%	62.7%	98.2%	3.4%	2.99	2.79
+11X249	Bronx Health Sciences High School	High School	74.3	A	77	B	A	B	B	7.2	Miriam Rivas	377	8.0%	4.8%	10.1%	77.7%	93.1%	6.1%	2.73	2.37
