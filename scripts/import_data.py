@@ -139,10 +139,6 @@ def sat_result(url, year_number):
 	sat_json = sat.read()
 	sat_data = json.loads(sat_json)
 
-	#for i in sat_data:
-	#	if "critical_reading_mean" in i:
-	#		print i["critical_reading_mean"]
-
 	reading = "sat_critical_reading_avg_score" if year_number == 2012 else "critical_reading_mean"
 	math = "sat_math_avg_score" if year_number == 2012 else "mathematics_mean"
 	writing = "sat_writing_avg_score" if year_number == 2012 else "writing_mean"
@@ -152,9 +148,10 @@ def sat_result(url, year_number):
 		
 		school_name = i["school_name"].upper()
 		
-		reading_avg = i[reading] if reading in i else -1
-		math_avg = i[math] if math in i else -1
-		writing_avg = i[writing] if writing in i else -1
+		reading_avg = int(i[reading]) if reading in i and i[reading].isdigit() else -1
+
+		math_avg = int(i[math]) if math in i  and i[math].isdigit() else -1
+		writing_avg = int(i[writing]) if writing in i and i[math].isdigit() else -1
 
 		sat_result_reading = "sat_result.reading." + str(year_number) 
 		sat_result_math = "sat_result.math." + str(year_number)
